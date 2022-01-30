@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!--    FFBB86FC FF6200EE FF3700B3-->
+<!--    FFBB86FC FF6200EE FF3700B3 FF03DAC5-->
     <color name="purple_200">#756db3</color>
     <color name="purple_500">#6791cb</color>
     <color name="purple_700">#6386b8</color>
-    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_200">#f58d42</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
