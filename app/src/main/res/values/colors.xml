@@ -12,5 +12,5 @@
 
 <!--    My colors-->
     <color name="grey_white">#f5f5f5</color><!-- -->
-    <color name="blue_bg">#edf3f5</color><!--    #f5f5f5-->
+    <color name="blue_bg">#f5f5f5</color><!--    #edf3f5-->
 </resources>
